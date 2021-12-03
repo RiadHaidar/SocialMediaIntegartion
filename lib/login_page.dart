@@ -60,6 +60,7 @@ class _LoginPageState extends State<LoginPage> {
   loginControls(BuildContext context) {
     return Center(
       child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
         children: [
           GestureDetector(
             child: Image.asset(
