@@ -71,10 +71,10 @@ class _LoginPageState extends State<LoginPage> {
             },
           ),
           GestureDetector(
-            child: Image.asset(
-              "assets/images/fb.png",
-              width: 250,
-            ),
+           child: Image.asset(
+             "assets/images/fb.png",
+             width: 250,
+           ),
           ),
         ],
       ),

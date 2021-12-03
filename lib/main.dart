@@ -4,7 +4,7 @@ import 'package:social/login_page.dart';
 import 'package:provider/provider.dart';
 
 void main() {
-  runApp( MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
